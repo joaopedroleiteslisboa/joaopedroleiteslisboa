@@ -2,7 +2,7 @@
 
 I'm João Pedro Leite, a Java Developer
 
-- <img height="10" src="https://www.indracompany.com/sites/all/themes/custom/indracompany_bs/logo.png"> Software Engineer I at [Indra Company](https://www.indracompany.com/).
+- <img height="10" src="https://www.indracompany.com/sites/all/themes/custom/indracompany_bs/logo.png"> Software Engineer I at [Indra Company] (https://www.indracompany.com/).
 
 ## Things I am passionate about
 
