@@ -16,6 +16,7 @@ I'm João Pedro Leite, a Java Developer
 
 - <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/joaopedroleiteslisboa/)
 - <img height="20" src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png"/> [Instagram](https://www.instagram.com/joaopedroleiteslisboa/?hl=pt-br)
+- <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_2ikcfGrwF0C3T31Fzy8u_DLHwCNHiJavjg&usqp=CAU"/> [Gist](https://gist.github.com/joaopedroleiteslisboa)
 
 ![João Pedro Leite's github stats](https://github-readme-stats.vercel.app/api?username=joaopedroleiteslisboa&count_private=true&show_icons=true&theme=algolia)
 
