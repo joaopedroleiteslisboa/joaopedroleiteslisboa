@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm João Pedro Leite</h1>
+<h3 align="center">Software Engineer I <img height="20" src="https://www.indracompany.com/sites/all/themes/custom/indracompany_bs/logo.png"> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopedroleiteslisboa" alt="fao89" /> </p>
 
-I'm João Pedro Leite, a Java Developer
-
-- <img height="10" src="https://www.indracompany.com/sites/all/themes/custom/indracompany_bs/logo.png"> Software Engineer I at [Indra Company] (https://www.indracompany.com/).
+-  Software Engineer I at [Indra Company] (https://www.indracompany.com/).
 
 ## Things I am passionate about
 
