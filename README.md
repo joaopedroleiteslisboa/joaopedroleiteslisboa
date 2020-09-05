@@ -18,7 +18,8 @@
   
  <img height="30" src="https://gcloudlabs.com/wp-content/uploads/2017/08/openshift.svg"/> 
   
- <img height="30" src="https://logodix.com/logo/1808489.jpg"/> 
+ <img height="25" src="https://logodix.com/logo/1808489.jpg"/> 
+ 
 </p>
 
 ## Get in touch
