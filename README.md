@@ -9,6 +9,7 @@ I'm João Pedro Leite, a Java Developer
 - <img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
 - <img height="20" src="https://img.icons8.com/color/48/000000/python.png"/> Python
 - <img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular
+- <img height="20" src="https://camo.githubusercontent.com/9db55f3871125e905941bfcf67567885e247589d/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"/> Linux
 
 
 ## Get in touch
