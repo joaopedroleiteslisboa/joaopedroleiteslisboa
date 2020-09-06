@@ -29,6 +29,7 @@
 - <img height="25" src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png"/> [Instagram](https://www.instagram.com/joaopedroleiteslisboa/?hl=pt-br)
 - <img height="23" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_2ikcfGrwF0C3T31Fzy8u_DLHwCNHiJavjg&usqp=CAU"/> [Gist](https://gist.github.com/joaopedroleiteslisboa)
 
+<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopedroleiteslisboa&show_icons=true&theme=algolia" alt="joaopedroleiteslisboa" />
 </p>
