@@ -15,7 +15,7 @@
  <img height="35" src="https://gcloudlabs.com/wp-content/uploads/2017/08/openshift.svg"/> 
  <img height="35"  src="https://camo.githubusercontent.com/9db55f3871125e905941bfcf67567885e247589d/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f6  9636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"/> 
  
- <img height="35"  src="<img src="https://img.icons8.com/color/48/000000/docker.png"/>"/> 
+ <img height="35"  src="https://img.icons8.com/color/48/000000/docker.png"/> 
   
  
   
