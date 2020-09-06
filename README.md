@@ -8,14 +8,14 @@
 ## Things I am passionate about
 
 <p align="left">
- <img height="25" src="https://logodix.com/logo/1808489.jpg"/> 
- <img height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
- <img height="35" src="https://img.icons8.com/color/48/000000/python.png"/> 
- <img height="35" src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
- <img height="35" src="https://gcloudlabs.com/wp-content/uploads/2017/08/openshift.svg"/> 
+ <img height="27" src="https://logodix.com/logo/1808489.jpg"/> 
+ <img height="33" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+ <img height="33" src="https://img.icons8.com/color/48/000000/python.png"/> 
+ <img height="33" src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
+ <img height="33" src="https://gcloudlabs.com/wp-content/uploads/2017/08/openshift.svg"/> 
  
- <img height="35"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/640px-JBoss_logo.svg.png"/> 
- <img height="35"  src="https://img.icons8.com/color/48/000000/docker.png"/> 
+ <img height="33"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/640px-JBoss_logo.svg.png"/> 
+ <img height="33"  src="https://img.icons8.com/color/48/000000/docker.png"/> 
   
  
   
