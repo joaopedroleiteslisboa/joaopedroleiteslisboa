@@ -18,11 +18,9 @@
  <img height="33"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/640px-JBoss_logo.svg.png"/> 
  <img height="33"  src="https://img.icons8.com/color/48/000000/docker.png"/> 
   
- 
-  
-
- 
 </p>
+
+<br/>
 
 ## Get in touch
 
