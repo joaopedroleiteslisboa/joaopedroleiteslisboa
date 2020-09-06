@@ -32,7 +32,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopedroleiteslisboa&show_icons=true&theme=algolia" alt="joaopedroleiteslisboa" />
-
+</p>
+<p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/joaopedroleiteslisboa/count.svg" />
+  <img src="https://profile-counter.glitch.me/joaopedroleiteslisboa/count.svg"/>
 </p>
