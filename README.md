@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João Pedro Leite</h1>
-<h3 align="center">Software Engineer I  <a href="https://www.indracompany.com/"> 
+<h1 align="left">Hi 👋, I'm João Pedro Leite</h1>
+<h3 align="left">Software Engineer I  <a href="https://www.indracompany.com/"> 
   <img height="30" src="http://mercados-digitais-pt.indracompany.com/images/logo.gif"> 
 </a>  </h3> 
 
