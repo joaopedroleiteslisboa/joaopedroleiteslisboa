@@ -8,7 +8,7 @@
 ## Things I am passionate about
 
 <p align="left">
- <img height="27" src="https://logodix.com/logo/1808489.jpg"/> 
+ <img height="30" src="https://logodix.com/logo/1808489.jpg"/> 
  <img height="33" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
  <img height="33" src="https://img.icons8.com/color/48/000000/python.png"/> 
  <img height="33" src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
