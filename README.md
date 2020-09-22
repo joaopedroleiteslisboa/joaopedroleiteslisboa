@@ -21,7 +21,11 @@
 </p>
 
 <br/>
-## Currently studying <img height="20"  src="https://getmanta.com/wp-content/uploads/2019/12/cobol_logo.svg"/> 
+## Currently studying 
+<p align="left">
+  <img height="20"  src="https://getmanta.com/wp-content/uploads/2019/12/cobol_logo.svg"/> 
+</p>
+
 
 
 <br/>
