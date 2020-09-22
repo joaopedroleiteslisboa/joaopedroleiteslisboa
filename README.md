@@ -21,14 +21,16 @@
 </p>
 
 <br/>
+
 ## Currently studying 
 <p align="left">
-  <img height="20"  src="https://getmanta.com/wp-content/uploads/2019/12/cobol_logo.svg"/> 
+  <img height="10"  src="https://getmanta.com/wp-content/uploads/2019/12/cobol_logo.svg"/> 
 </p>
 
 
 
 <br/>
+
 ## Get in touch
 
 
