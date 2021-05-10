@@ -24,7 +24,7 @@
 
 ## Currently studying 
 <p align="left">
-  <img height="10"  src="https://getmanta.com/wp-content/uploads/2019/12/cobol_logo.svg"/> 
+  <img height="10"  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg"/> 
 </p>
 
 
