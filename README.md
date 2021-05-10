@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm João Pedro Leite</h1>
 <h3 align="left"> Software Engineer <a href="https://invillia.com//"> 
-  <img height="30" src="https://invillia.com/global-growth-framework/images/logo-invillia.svg"> 
+  <img height="50" src="https://invillia.com/global-growth-framework/images/logo-invillia.svg"> 
 </a>  </h3> 
 
 
