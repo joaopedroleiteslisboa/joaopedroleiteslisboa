@@ -24,7 +24,7 @@
 
 ## Currently studying 
 <p align="left">
-  <img height="20"  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"/> 
+  <img height="40"  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"/> 
 </p>
 
 
