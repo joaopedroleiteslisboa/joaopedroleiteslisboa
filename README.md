@@ -26,6 +26,7 @@
 ## Currently studying 
 <p align="left">
   <img height="40"  src="https://img.icons8.com/color/344/kubernetes.png"/> 
+  
   <img height="40"  src="https://img.icons8.com/color/344/amazon-web-services.png"/> 
 </p>
 
