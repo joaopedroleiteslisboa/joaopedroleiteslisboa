@@ -9,15 +9,15 @@
 ## Things I am passionate about
 
 <p align="left">
- <img height="30" src="https://logodix.com/logo/1808489.jpg"/> 
+ <img height="33" src="https://logodix.com/logo/1808489.jpg"/> 
  <img height="33" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
  <img height="33" src="https://img.icons8.com/color/48/000000/kotlin.png"/> 
  <img height="33" src="https://img.icons8.com/color/48/000000/python.png"/> 
  <img height="33" src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
- <img height="33" src="https://gcloudlabs.com/wp-content/uploads/2017/08/openshift.svg"/> 
- 
+ <img height="33" src="https://gcloudlabs.com/wp-content/uploads/2017/08/openshift.svg"/>  
  <img height="33"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/640px-JBoss_logo.svg.png"/> 
  <img height="33"  src="https://img.icons8.com/color/48/000000/docker.png"/> 
+ <img height="33"  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"/> 
   
 </p>
 
@@ -25,7 +25,8 @@
 
 ## Currently studying 
 <p align="left">
-  <img height="40"  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"/> 
+  <img height="40"  src="https://img.icons8.com/color/344/kubernetes.png"/> 
+  <img height="40"  src="https://img.icons8.com/color/344/amazon-web-services.png"/> 
 </p>
 
 
